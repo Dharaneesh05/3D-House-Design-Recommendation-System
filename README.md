@@ -77,7 +77,7 @@ cd 3D-House-Design-Recommendation-System</code></pre>
         </ol>
         <p>Please ensure your code follows the project’s coding standards and includes appropriate documentation.</p>
         <h2>License</h2>
-        <p>This project is licensed under the MIT License. See the <a href="LICENSE.txt">LICENSE.txt</a> file for details.</p>
+        <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
         <h2>Acknowledgments</h2>
         <ul>
             <li><a href="https://github.com/Dharaneesh05">Dharaneesh05</a> for the project foundation.</li>
